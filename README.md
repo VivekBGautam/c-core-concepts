@@ -5,7 +5,6 @@ This repository contains basic **C language conceptual programs** designed to un
 ## 📌 About
 The programs in this repository focus on:
 - Strengthening C programming concepts
-- Understanding logic building
 - Practicing beginner to intermediate level problems
 
 ## 📂 Contents
