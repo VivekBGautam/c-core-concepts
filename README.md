@@ -17,7 +17,7 @@ This repository includes programs related to:
 - Pointers
 - Structures
 - Conceptual logic programs
-
+ 
 ##  How to Compile and Run
 Use the following commands to compile and execute a program:
 
