@@ -36,4 +36,4 @@ int main()
 }
 
 // g++ First -o Myexe
-// Myexe.exe  (Windows)    ./Myexe  (Linux) 
+// Myexe.exe  (Windows)    ./Myexe  (Linux)
