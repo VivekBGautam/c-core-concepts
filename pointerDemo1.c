@@ -12,4 +12,4 @@ int main()
     printf("Size of cPtr : %lu\n",sizeof(cPtr));
    
     return 0;
-} 
+}
