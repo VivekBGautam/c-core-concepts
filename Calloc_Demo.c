@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int main()
-{
+{ 
     int length = 0;
     int *Arr = NULL;
 
