@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() 
+int main()
 {
     int Value1 = 0, Value2 = 0, Ans = 0;
 
