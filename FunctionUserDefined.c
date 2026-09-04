@@ -1,6 +1,6 @@
 #include<stdio.h> 
 
-int Addition(int iNo1, int iNo2)
+int Addition(int iNo1, int iNo2) 
 {
     int iSum = 0;
 
