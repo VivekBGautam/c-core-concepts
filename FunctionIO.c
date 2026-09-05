@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() 
+int main()
 {
     int iValue1 = 0, iValue2 = 0, iAns = 0;
 
